@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on as a master in CCNU from 2019 to 2022.
+- 🔭 I’m currently working as a master in CCNU from 2019 to 2022.
 - 🤔 I’m looking for software engineer internship in Golang/Python.
+- 🌱 I’m currently learning Golang and some useful Algorithms.
