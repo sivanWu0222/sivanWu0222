@@ -11,9 +11,11 @@ I'm Xiaowen Wu, a master student majoring in full stack engineer :satellite: at 
 
 
 ---
+
+
 [![sivanWu's github stats](https://github-readme-stats.vercel.app/api?username=sivanWu0222&count_private=true&show_icons=true)](https://github.com/sivanWu0222/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sivanWu0222)](https://github.com/sivanWu0222/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sivanWu0222&layout=compact)](https://github.com/sivanWu0222/github-readme-stats)
 
 ---
 
