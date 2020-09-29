@@ -15,20 +15,13 @@ I'm Xiaowen Wu, a master student majoring in full stack engineer :satellite: at 
 
 [![sivanWu's github stats](https://github-readme-stats.vercel.app/api?username=sivanWu0222&count_private=true&show_icons=true)](https://github.com/sivanWu0222/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sivanWu0222&layout=compact)](https://github.com/sivanWu0222/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sivanWu0222&hide=javascript,html,css&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## Wakatime statistics
 
-<!--START_SECTION:waka-->
-```text
-Other      8 hrs 33 mins  █████████████▒░░░░░░░░░░░   53.31 % 
-Golang        8 hrs 4 mins    ████████░░░░░░░░░░░░░░░░░   31.74 % 
-Markdown   1 hr 55 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-Text       20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-```
-<!--END_SECTION:waka-->
+
+[![sivanWu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yirufeng)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
