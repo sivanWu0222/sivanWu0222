@@ -21,7 +21,7 @@ I'm Xiaowen Wu, a master student majoring in full stack engineer :satellite: at 
 ## Wakatime statistics
 
 
-[![sivanWu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yirufeng)](https://github.com/anuraghazra/github-readme-stats)
+[![sivanWu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yirufeng)](https://github.com/sivanWu0222)
 
 
 <!--
