@@ -18,10 +18,6 @@ I'm Xiaowen Wu, a master student majoring in full stack engineer :satellite: at 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sivanWu0222&hide=javascript,html,css&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
-## Wakatime statistics
-
-
-[![sivanWu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yirufeng)](https://github.com/sivanWu0222)
 
 
 <!--
@@ -37,5 +33,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+## Wakatime statistics
+
+
+[![sivanWu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yirufeng)](https://github.com/sivanWu0222)
+
 -->
 
