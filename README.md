@@ -5,11 +5,10 @@
 # Hey, sivanWu0222 here! :wave: 
 
 
-I'm Xiaowen Wu, a master student majoring in full stack engineer :satellite: at Central China Normal University, Wuhan, China.
+I'm Xiaowen Wu, a master student majoring in cloud native engineer :satellite: at Central China Normal University, Wuhan, China.
 
-- :hammer_and_pick: Typescript for web applications, Golang/Python for competitive programming, Python for data science.
-
-
+- 🌱 I’m currently learning cloud native.
+ 
 ---
 
 
