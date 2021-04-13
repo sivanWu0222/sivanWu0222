@@ -5,10 +5,11 @@
 # Hey, sivanWu0222 here! :wave: 
 
 
-I'm Xiaowen Wu, a master student majoring in cloud native engineer :satellite: at Central China Normal University, Wuhan, China.
+I'm Xiaowen Wu, a master student majoring in computer vision :satellite: at Central China Normal University, Wuhan, China.
 
-- 🌱 I’m currently learning cloud native.
- 
+- 🌱 I’m currently learning golang and cloud native.
+- To be a gopher Exp First.
+
 ---
 
 
