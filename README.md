@@ -4,10 +4,12 @@
 
 # Hey, sivanWu0222 here! :wave: 
 
-
 I'm Xiaowen Wu, a master student majoring in computer vision :satellite: at Central China Normal University, Wuhan, China.
+Hi there 👋. I'm working on cloud network in Alibaba Cloud.
 
-- 🌱 I’m currently learning golang and cloud native.
+
+🤔 Interests: Kubernetes, Cloud Native, Performance Tunning
+- 📚 Currently learning Cloud Network, Kubernetes, Cloud Native.
 - To be a gopher Exp First.
 
 ---
